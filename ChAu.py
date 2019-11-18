@@ -110,7 +110,7 @@ def audio_files_check(argvs):
 
 
 def main():
-    """ Main start function"""
+    """ Main start"""
     audio_files_check(sys.argv[1:])
 
 
