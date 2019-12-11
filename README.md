@@ -1,7 +1,7 @@
 # Python project
 Scan subdirectories, find audio files;
-  - calculate CRC (MD5) for everyone;
-  - check duplicated;
+  - calculate CRC (MD5) for every file;
+  - check duplicated with MD5;
   - create 'AllFiles.txt' with list of all audio files were found;
-  - create 'AllFiles.db' database file contains MD5, filenames, duplicate marked;
+  - create 'AllFiles.db' database file contains MD5, filenames, duplicate marker;
  
